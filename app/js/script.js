@@ -126,7 +126,7 @@
             prevButton: ".swiper-button-prev",
             paginationClickable: !0,
             spaceBetween: 0,
-            speed: 3000,
+            speed: 2000,
             parallax: !0,
             autoplay: 7000,
             loop: !0
